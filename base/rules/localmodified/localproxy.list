@@ -1,8 +1,7 @@
 #邮箱部分
-DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,imap.gmail.com
-DOMAIN-KEYWORD,smartmailcloud
-DOMAIN-KEYWORD,imap
 DOMAIN,imap.gmail.com
+DOMAIN-SUFFIX,app.smartmailcloud.com
+DOMAIN,app.smartmailcloud.com
 DOMAIN,imap-mail.outlook.com
 DOMAIN-SUFFIX,imap-mail.outlook.com
