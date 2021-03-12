@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN,app.smartmailcloud.com
 DOMAIN,imap-mail.outlook.com
 DOMAIN-SUFFIX,imap-mail.outlook.com
+
+#游戏王相关
+DOMAIN-SUFFIX,konami.net
